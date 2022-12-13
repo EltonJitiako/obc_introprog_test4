@@ -5,11 +5,11 @@ public class Main {
 
         //IF
         if(numeroIf<0) {
-            System.out.println("its negative");
+            System.out.println("Es negativo");
         } else if (numeroIf==0) {
-            System.out.println("its zero");
+            System.out.println("Es zero");
         } else {
-            System.out.println("its positive");
+            System.out.println("Es positivo");
         }
 
 
